@@ -1,5 +1,5 @@
 {
-   "path":"/Users/kartiksingh/Downloads/songs/",
+   "path":"songs/",
    "repeater":0,
    "//":"possible value of repeater (0,n) and (-1) to  play forever",
    "scroll_speed":20,
