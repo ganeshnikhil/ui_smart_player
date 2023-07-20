@@ -133,7 +133,7 @@ screen = pygame.display.set_mode(screen_size)
 clock = pygame.time.Clock()
 
 # Set the background
-background_image = pygame.image.load("hello.jpg")
+background_image = pygame.image.load("background.jpg")
 background_width, background_height = background_image.get_size()
 
 # Calculate the scale factor to fit the image within the screen
