@@ -116,6 +116,7 @@ You can customize various settings in the `music_setting.json` file:
  - Bloody Mary New Song Download Mp3(SongsZilla.Net).mp3
  - o-come-o-come-emmanuel-11563.mp3
 ---
-![**Screeeshot of GUI**] (https://github.com/ganeshnikhil/ui_smart_player/blob/main/Screenshot%202023-07-20%20at%205.55.33%20PM.png)
+![Screenshot of GUI](https://github.com/ganeshnikhil/ui_smart_player/blob/main/Screenshot%202023-07-20%20at%205.55.33%20PM.png)
+
 
 This music player project provides a basic framework to get started with creating your own music player in Python. If you have any further questions or need assistance, don't hesitate to ask!
