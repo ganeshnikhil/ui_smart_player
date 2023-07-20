@@ -115,11 +115,6 @@ You can customize various settings in the `music_setting.json` file:
  - Kabhi-Kabhi-Aditi-Zindagi(PagalWorld).mp3
  - Bloody Mary New Song Download Mp3(SongsZilla.Net).mp3
  - o-come-o-come-emmanuel-11563.mp3
-
-Please note that the integers representing the play count have been removed from the song names as per your request. Feel free to use this data in your `readme.md` file.
-  
-      
-
 ---
 
 This music player project provides a basic framework to get started with creating your own music player in Python. If you have any further questions or need assistance, don't hesitate to ask!
