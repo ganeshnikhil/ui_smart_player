@@ -85,6 +85,7 @@ You can customize various settings in the `music_setting.json` file:
 - Displays the remaining time of the current song.
 - Offers customizable settings to
 - Bultin song library . preinstalled songs.
+- hovering effect (color change)
   
 ## Bulitin  songs library 
   **song list**
