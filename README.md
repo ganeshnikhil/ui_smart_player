@@ -1,6 +1,6 @@
 # ui_smart_player
 
-##Music Player
+### Music Player
 
 This project is a simple music player written in Python using the Pygame library. It allows you to play songs stored in a specified directory, keeps track of the number of times each song is played, and displays the remaining time of the currently playing song. The music player also provides options to scroll through the list of songs, pause/play the current song, and go back to previously played songs.
 
