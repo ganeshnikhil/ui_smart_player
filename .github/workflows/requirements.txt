@@ -1,1 +1,2 @@
-
+pygame==2.1.2
+audioread==3.0.0
